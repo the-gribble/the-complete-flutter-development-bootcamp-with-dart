@@ -1,4 +1,4 @@
-#Tue Jul 02 19:03:16 SAST 2024
+#Wed Jul 03 06:19:59 SAST 2024
 base.0=/Users/samgribble/development/flutter/projects/self_study/the-complete-flutter-development-bootcamp-with-dart/proj_1_i_am_rich/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/Users/samgribble/development/flutter/projects/self_study/the-complete-flutter-development-bootcamp-with-dart/proj_1_i_am_rich/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 base.2=/Users/samgribble/development/flutter/projects/self_study/the-complete-flutter-development-bootcamp-with-dart/proj_1_i_am_rich/build/app/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
