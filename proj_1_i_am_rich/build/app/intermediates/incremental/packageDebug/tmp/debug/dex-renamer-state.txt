@@ -1,0 +1,13 @@
+#Tue Jul 02 19:03:16 SAST 2024
+base.0=/Users/samgribble/development/flutter/projects/self_study/the-complete-flutter-development-bootcamp-with-dart/proj_1_i_am_rich/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/samgribble/development/flutter/projects/self_study/the-complete-flutter-development-bootcamp-with-dart/proj_1_i_am_rich/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/Users/samgribble/development/flutter/projects/self_study/the-complete-flutter-development-bootcamp-with-dart/proj_1_i_am_rich/build/app/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+base.3=/Users/samgribble/development/flutter/projects/self_study/the-complete-flutter-development-bootcamp-with-dart/proj_1_i_am_rich/build/app/intermediates/dex/debug/mergeProjectDexDebug/10/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=1/classes.dex
+path.3=10/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex

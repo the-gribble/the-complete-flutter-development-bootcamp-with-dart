@@ -1,0 +1,1 @@
+ /Users/samgribble/development/flutter/projects/self_study/the-complete-flutter-development-bootcamp-with-dart/proj_1_i_am_rich/.dart_tool/flutter_build/a2dc92f53b7069de2a9cc650705b123b/native_assets.yaml: 
