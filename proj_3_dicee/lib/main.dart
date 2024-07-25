@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'dart:math';
 
 void main() {
   return runApp(
@@ -15,11 +16,28 @@ void main() {
   );
 }
 
-class DicePage extends StatelessWidget {
+class DicePage extends StatefulWidget {
+  const DicePage({super.key});
+
+  @override
+  State<DicePage> createState() => _DicePageState();
+}
+
+class _DicePageState extends State<DicePage> {
+  int leftDiceNo = 1;
+  int rightDiceNo = 6;
+
+  void randmiseDice() {
+    setState(() {
+      // setState() is required to repaint the UI, else the var will be changed but not shown to the user.
+      // This method marks everywhere where this var is used to "dirty". Dirty widgets are (only) are redrawn on rebuild
+      leftDiceNo = Random().nextInt(6) + 1;
+      rightDiceNo = Random().nextInt(6) + 1;
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
-    var leftDiceNo = 1;
-    var rightDiceNo = 6;
     return Center(
       child: Row(
         children: [
@@ -28,6 +46,7 @@ class DicePage extends StatelessWidget {
               child: Image.asset('images/dice$leftDiceNo.png'),
               onPressed: () {
                 print('Left button pressed.');
+                randmiseDice();
               },
             ),
           ),
@@ -36,6 +55,7 @@ class DicePage extends StatelessWidget {
               child: Image.asset('images/dice$rightDiceNo.png'),
               onPressed: () {
                 print('Right button pressed.');
+                randmiseDice();
               },
             ),
           ),

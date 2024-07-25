@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/challenge_1_i_am_poor/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/challenge_1_i_am_poor/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/challenge_1_i_am_poor/build" />
+      <excludeFolder url="file://$MODULE_DIR$/challenge_2_layouts/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/challenge_2_layouts/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/challenge_2_layouts/build" />
+      <excludeFolder url="file://$MODULE_DIR$/proj_1_i_am_rich/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/proj_1_i_am_rich/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/proj_1_i_am_rich/build" />
+      <excludeFolder url="file://$MODULE_DIR$/proj_2_mi_card/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/proj_2_mi_card/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/proj_2_mi_card/build" />
+      <excludeFolder url="file://$MODULE_DIR$/proj_3_dicee/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/proj_3_dicee/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/proj_3_dicee/build" />
+      <excludeFolder url="file://$MODULE_DIR$/proj_3_dicee_old/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/proj_3_dicee_old/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/proj_3_dicee_old/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
